@@ -1,6 +1,6 @@
 <?php
-$nombre = isset($argv[1]) ? $argv[1] : "Mundo";
+// Autor: Marc  <marc@uco.es>
+print "Introduce tu nombre:";
+$nombre = trim(fgets(STDIN));
 @print "Hola, {$nombre}\n";
-//Autor:Marc
-//COrreo: @gmail.
 ?>
