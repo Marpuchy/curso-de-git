@@ -1,4 +1,4 @@
-# Curso de git
+# Curso de git 2024
 
 Este proyecto contiene el curso de git 2
 
